@@ -1,1 +1,1 @@
-# Website
+Jak ruchomić stronę internetową? Uruchamiamy wiersz poleceń. Za pomocą wiersza poleceń przedzodzimy do folderu w którym jest nasza strona. Wpisujemy polecenie: set FLASK_APP=business.py Następnie wpisujemy polecenie: python -m flask run. Ostatnim krokiem jest wpisanie w przeglądarkę: http://localhost:5000/mypage/me Gotowe. Możemy już korzystać ze strony
